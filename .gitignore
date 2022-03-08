@@ -1,0 +1,32 @@
+
+# Ren'py logging
+errors.txt
+traceback.txt
+log.txt
+
+# Ren'py compiled files
+*.rpyc
+*.bak
+*.rpymc
+
+# Ren'py runtime
+*.save
+game/saves
+game/cache
+
+# Python objects
+*.py[co]
+
+#Heavy assets
+game/audio/
+game/characters/sprites/
+game/images/
+
+service-token.json
+game/gui/slider/horizontal_idle_thumb - Copy.png
+game/gui/bar/right - Copy.png
+game/gui/bar/top - Copy.png
+*.png
+*.png
+game/gui/button/BtnGeneric.png
+game/gui/button/BtnGenericOn.png
